@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nav_container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.nav_task {
+    display: flex;
+    gap: 70px;
+    margin-top: 30px;
+}
+
+.nav_link {
+    list-style: none;
+    margin-top: 20px;
+}
+
+.iphone {
+    width: 5%;
+}
+
+.nav_text {
+    margin-left: 15px;
+    margin-top: 50px;
+}
