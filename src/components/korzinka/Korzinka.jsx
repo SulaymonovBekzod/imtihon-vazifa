@@ -27,7 +27,7 @@ function Korzinka() {
                     </div>
                     <p className='umumiy_summa'>Umumiy summa: 122.000 so`m</p>
                     <Link to="/taomlar"><button className='yakunlash'>Yakunlash</button></Link>
-                    <button className='yuborish'>Yuborish</button>
+                   <Link to="/oshpaz"><button className='yuborish'>Yuborish</button></Link>
                 </div>
             </div>
         </div>

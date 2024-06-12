@@ -18,8 +18,8 @@ function Login() {
     }
 
     function chackPassword() {
-        if (password === "oshpaz") {
-            history("/oshpaz")
+        if (password === "afitsant") {
+            history("/afitsant")
         }else {
             alert('Noto‘g‘ri parol, qayta urinib ko‘ring.')
         }

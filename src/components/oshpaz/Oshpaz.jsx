@@ -8,22 +8,22 @@ function Oshpaz() {
         <div className='container7'>
             <div className="row7">
                 <div>
-                    <div className='oshpaz'>
+                    <div className='shev_povar'>
                         <h1 className='h1_number'>1</h1>
                         <img className='img_stol' src={StolStulImg} alt="" />
                         <p className='oshpaz_number'>1</p>
                     </div>
-                    <div className='oshpaz'>
+                    <div className='shev_povar'>
                         <h1 className='h1_number'>1</h1>
                         <img className='img_stol' src={StolStulImg} alt="" />
                         <p className='oshpaz_number'>14</p>
                     </div>
-                    <div className='oshpaz'>
+                    <div className='shev_povar'>
                         <h1 className='h1_number'>1</h1>
                         <img className='img_stol' src={StolStulImg} alt="" />
                         <p className='oshpaz_number'>5</p>
                     </div>
-                    <div className='oshpaz'>
+                    <div className='shev_povar'>
                         <h1 className='h1_number'>1</h1>
                         <img className='img_stol' src={StolStulImg} alt="" />
                         <p className='oshpaz_number'>9</p>
