@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container6 {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.row6 {
+    position: relative;
+    display: flex;
+    right: 20px;
+    top: 20px;
+    border: 1px solid grey;
+    width: 100%;
+    height: 550px;
+    background: rgba(0, 0, 0, 0.03);
+}
+
+.taom_summasi {
+    margin-top: 60px;
+    margin-left: 150px;
+}
+
+.ichimlik_summasi {
+    margin-top: 180px;
+    margin-left: 150px;
+}
+
+.summa {
+    font-family: "Irish Grover";
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.summa1 {
+    position: relative;
+    bottom: 10px;
+    font-family: "Irish Grover";
+    font-size: 20px;
+}
+
+.summa2 {
+    position: relative;
+    top: 34px;
+    font-family: "Irish Grover";
+    font-size: 20px;
+}
+
+.ichimlik_choyi {
+    font-family: "Irish Grover";
+    font-size: 25px;
+    margin-top: 25px;
+}
+
+.ichimliklar_text {
+    font-family: "Irish Grover";
+    font-size: 30px;
+    margin-top: 25px;
+}
+
+.taomlar_text {
+    font-family: "Irish Grover";
+    font-size: 30px;
+}
+
+.taom {
+    font-family: "Irish Grover";
+    font-size: 25px;
+    margin-top: 25px;
+}
+
+.ichimlik {
+    margin-top: 70px;
+}
+
+.umumiy_summa {
+    font-family: "Irish Grover";
+    font-size: 25px;
+    margin-top: 100px;
+    margin-left: 150px;
+}
+
+.taomlar_royaxati {
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.ovqat_ichimlik_summasi {
+    margin-top: 30px;
+}
+
+.yakunlash {
+    position: relative;
+    right: 300px;
+    top: 40px;
+    background: rgba(249, 0, 0, 1);
+    color: white;
+    font-family: "Irish Grover";
+    font-size: 20px;
+    border: none;
+    border-radius: 14px;
+    width: 35%;
+    height: 50px;
+}
+
+.yuborish {
+    position: relative;
+    left: 440px;
+    top: 40px;
+    background: rgba(0, 173, 48, 1);
+    color: white;
+    font-family: "Irish Grover";
+    font-size: 20px;
+    border: none;
+    border-radius: 14px;
+    width: 35%;
+    height: 50px;
+}

@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container2 {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.afitsant_stol {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.stol_stul_raqami {
+    margin-left: 120px;
+    font-family: "Irish Grover";
+    font-size: 30px;
+}

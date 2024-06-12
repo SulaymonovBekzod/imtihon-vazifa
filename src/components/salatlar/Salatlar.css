@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container5 {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.row5 {
+    display: flex;
+    margin-top: 40px;
+}
+
+.salatlar {
+    display: flex;
+    gap: 25px;
+}
+
+.salat_number {
+    margin-top: 85px;
+    font-family: "Irish Grover";
+    font-size: 30px;
+    font-weight: 400px;
+}
+
+.salat_menusi {
+    display: flex;
+    gap: 20px;
+    margin-left: 40px;
+    margin-top: 70px;
+}
+
+.salat_royxati {
+    font-family: "Irish Grover";
+    font-weight: 400px;
+    font-size: 30px;
+    margin-left: 10px;
+    margin-top: 7px;
+    color: white;
+}
+
+.salatlar_menyusi {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin-top: 30px;
+    gap: 15px;
+}
+
+.salat_nomi {
+    font-family: "Irish Grover";
+    font-size: 30px;
+    margin-left: 90px;
+}
+
+.salat_img {
+    width: 100%;
+    margin-top: 50px;
+    box-shadow: 0px 0px 25px 2px rgba(0, 0, 0, 0.25);
+    height: 230px;
+}
+
+.salat_minus_plus {
+    margin-left: 105px;
+    font-family: "Irish Grover";
+    font-size: 30px;
+}
+
+a {
+    text-decoration: none;
+}

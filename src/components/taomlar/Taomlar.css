@@ -1,0 +1,126 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container3 {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.row3 {
+    display: flex;
+    margin-top: 40px;
+}
+
+.taomlar {
+    display: flex;
+    gap: 25px;
+}
+
+.taomlar_number {
+    margin-top: 85px;
+    font-family: "Irish Grover";
+    font-size: 30px;
+    font-weight: 400px;
+}
+
+.taomlar_menusi {
+    display: flex;
+    gap: 20px;
+    margin-left: 40px;
+    margin-top: 70px;
+}
+
+.card1 {
+    display: flex;
+    width: 250px;
+    height: 53px;
+    background: rgba(107, 60, 8, 1);
+    border-radius: 14px;
+}
+
+.card2 {
+    display: flex;
+    width: 250px;
+    height: 53px;
+    background: rgba(212, 160, 104, 1);
+    border-radius: 14px;
+
+}
+
+.card3 {
+    display: flex;
+    width: 250px;
+    height: 53px;
+    background: rgba(212, 160, 104, 1);
+    border-radius: 14px;
+}
+
+.img {
+    width: 25%;
+    height: 42px;
+    margin-top: 6px;
+    margin-left: 10px;
+}
+
+.taomlar_royxati {
+    font-family: "Irish Grover";
+    font-weight: 400px;
+    font-size: 30px;
+    margin-left: 10px;
+    margin-top: 7px;
+    color: white;
+}
+
+.uzun_chiziq {
+    position: relative;
+    top: 15px;
+    right: 70px;
+    width: 120%;
+    border: 1px solid gray;
+    box-shadow: 0px 3px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.taomlar_menyusi {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin-top: 30px;
+}
+
+.taomlar_img {
+    width: 65%;
+    margin-top: 70px;
+    box-shadow: 0px 0px 25px 2px rgba(0, 0, 0, 0.25);
+    height: 190px;
+}
+
+.taomlar_nomi {
+    font-family: "Irish Grover";
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+.taomlar_nomi1 {
+    font-family: "Irish Grover";
+    font-size: 30px;
+    margin-left: 67px;
+}
+
+.taomlar_nomi5 {
+    font-family: "Irish Grover";
+    font-size: 30px;
+    margin-left: 67px;
+}
+
+.taomlar_nomi8 {
+    font-family: "Irish Grover";
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.taom_minus_plus {
+    margin-left: 60px;
+    font-family: "Irish Grover";
+    font-size: 30px;
+}

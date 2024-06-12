@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container7 {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.row7{
+    display: flex;
+}
+
+.oshpaz {
+    display: flex;
+    gap: 15px;
+}
+
+
+.oshpaz_number {
+    font-family: "Irish Grover";
+    font-size: 30px;
+    margin-top: 100px;
+}
+
+.h1_number {
+    margin-top: 95px;
+}
+
+.oshpaz_osh {
+    font-family: "Irish Grover";
+    font-size: 25px;
+    margin-top: 30px;
+}
+
+.oshpaz_shorva {
+    font-family: "Irish Grover";
+    font-size: 25px;
+    margin-top: 30px;
+}
+
+.oshpaz_taomlari {
+    font-family: "Irish Grover";
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.oshpaz_ichimliklari {
+    font-family: "Irish Grover";
+    font-size: 30px;
+}
+
+.oshpaz_choy {
+    font-family: "Irish Grover";
+    font-size: 25px;
+    margin-top: 30px;
+}
+
+.oshpaz_kompot {
+    font-family: "Irish Grover";
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.oshpazde {
+    margin-left: 50px;
+    margin-top: 90px;
+}
+
+.yana_oshpazde {
+    margin-top: 40px;
+    margin-left: 50px;
+}
+
+.kota_oshpaz {
+    margin-top: 20px;
+    margin-left: 10px;
+    height: 80vh;
+    width: 100%;
+    border: 1px solid gray;
+    background: rgba(0, 0, 0, 0.03);
+}

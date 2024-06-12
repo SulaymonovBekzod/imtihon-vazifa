@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.row {
+    box-shadow: 0px 10px 30px 2px rgba(0, 0, 0, 0.25);
+    height: 400px;
+}
+
+.container {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.login_page {
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+.oshpaz {
+    margin-top: 13px;
+}
+
+.kirish {
+    width: 123px;
+    border: none;
+    border-radius: 20px;
+    height: 30px;
+    background-color: #008000;
+    margin-top: 30px;
+    margin-left: 270px;
+    color: white;
+}
+
+.input {
+    margin-left: 100px;
+    margin-top: 20px;
+    width: 436px;
+    height: 70px;
+    padding-left: 20px;
+    font-family: "Irish Grover";
+    font-size: 40px;
+}
+
+.afitsant_img {
+    position: relative;
+    right: 65px;
+    top: 30px;
+}
+
+.oshpaz_img {
+    position: relative;
+    left: 40px;
+    top: 20px;
+}
+
+.afitsant_text {
+    position: relative;
+    left: 25px;
+    top: 25px;
+    font-family: "Irish Grover";
+    font-size: 30px;
+}
+
+.oshpaz_text {
+    position: relative;
+    left: 95px;
+    top: 25px;
+    font-family: "Irish Grover";
+    font-size: 30px;
+}
+
+.input_radio {
+    position: relative;
+    left: 70px;
+}
